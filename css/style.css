@@ -67,7 +67,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
+  border: 1px solid rgba(255, 0, 0, .0);
   background-image: url('../img/FW_Logo.png');
 
 }
@@ -78,7 +78,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
+  border: 1px solid rgba(255, 0, 0, .0);
   background-image: url('../img/YA_Logo.png');
 
 }
@@ -89,7 +89,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
+  border: 1px solid rgba(255, 0, 0, .0);
   background-image: url('../img/LotusLogoPink.png');
 
 }
