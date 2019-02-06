@@ -32,7 +32,7 @@ a {
   padding-bottom: 100px;
   padding-left: 100px;
   width: 33.33%;
-  /*border: 2px solid #6D098A;*/
+  border: 2px solid #6D098A;
 }
 
 .grid-item-things{
@@ -44,7 +44,7 @@ a {
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
-    /*border: 2px solid #6D098A;*/
+    border: 2px solid #6D098A;
     color: purple;
     text-align: center;
 }
@@ -62,36 +62,36 @@ a {
   background-repeat: no-repeat;
   /*border: 1px solid red;*/
   background-image: url('../img/FW_Logo.png');
- 
+
 }
 
 .logo-ya{
-  
+
   width: 200px;
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
   /*border: 1px solid red;*/
   background-image: url('../img/YA_Logo.png');
- 
+
 }
 
 .logo-ld{
-  
+
   width: 200px;
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
   /*border: 1px solid red;*/
   background-image: url('../img/LotusLogoPink.png');
- 
+
 }
 
 .LD-name {
-  
+
   padding-top: 70px;
   font-size: 25px;
-  
+
 }
 .button-logo {
   font-weight: bold;
@@ -107,7 +107,7 @@ a {
   width: 100%;
   float: left;
   background-color: white;
-  
+
 }
 
 .contact-buttons {
@@ -117,7 +117,7 @@ float: left;
   padding: 10px;
   width: 8%;
   background-color: white;
-  /*border: 2px solid #6D098A;*/
+  border: 2px solid #6D098A;
 }
 
 .contact-buttons:hover{
@@ -132,7 +132,7 @@ float: left;
   padding: 10px;
   width: 325px;
   background-color: white;
-  /*border: 2px solid #6D098A;*/
+  border: 2px solid #6D098A;
 }
 
 .email:hover{
@@ -155,7 +155,7 @@ float: left;
 .name{
     font-weight: bold;
     font-size: 50px;
-    
+
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -171,7 +171,7 @@ float: left;
   .contact-buttons  {
     width: 50%;
   }
-  
+
    .contact-buttons-email  {
     width: 50%;
   }
@@ -195,12 +195,12 @@ float: left;
   .contact-buttons{
     width: 100%;
   }
-  
+
   .contact-buttons-email{
     width: 100%;
   }
 
   .button-text  {
-    width: 100vw;
+    width: 100%;
   }
 }
