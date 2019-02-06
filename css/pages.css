@@ -17,7 +17,7 @@ body {
   float: left;
   width: 50%;
   padding: 70px;
-  /*border: 2px solid #6D098A;*/
+  border: 2px solid #6D098A;
   line-height: 2;
   display: inline-block;
   vertical-align: middle;
@@ -36,7 +36,7 @@ img{
   height: 100%;
   background-image: url('./img/fw1.png');
   background-size: cover;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
 
 }
 

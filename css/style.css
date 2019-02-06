@@ -34,11 +34,13 @@ a {
   width: 33.33%;
   border: 2px solid #6D098A;
 }
-
 .grid-container{
 
+
   padding: 35px;
+
 }
+
 
 .grid-item-things{
 
@@ -65,6 +67,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
+  border: 1px solid red;
   background-image: url('../img/FW_Logo.png');
 
 }
@@ -75,7 +78,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
   background-image: url('../img/YA_Logo.png');
 
 }
@@ -86,7 +89,7 @@ a {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
   background-image: url('../img/LotusLogoPink.png');
 
 }
@@ -98,8 +101,8 @@ a {
 
 }
 .button-logo {
-padding-right: 30px;
 
+padding-right: 30px;
 }
 
 .about-item {
@@ -149,6 +152,8 @@ float: left;
   padding-right: 40px;
   font-size: 20px;
   text-align: left;
+
+
 }
 
 .name{
